@@ -12,16 +12,16 @@ and I also change the name the and Icon of this project.. All the UI design are 
 **Icon**
 ![alt MainScreen](demo/icon.jpg)
 **Main Screen**
-![alt MainScreen](demo\one.jpg)
+![alt MainScreen](demo/one.jpg)
 
 **Playing With Bot Screen**
-![alt WithBot](demo\two.jpg)
-![alt WithBot](demo\three.jpg)
+![alt WithBot](demo/two.jpg)
+![alt WithBot](demo/three.jpg)
 
 **Playing as Two Player**
-![alt WithBot](demo\four.jpg)
-![alt WithBot](demo\five.jpg)
+![alt WithBot](demo/four.jpg)
+![alt WithBot](demo/five.jpg)
 
 ### Live Demo
 
-![alt Demo](demo\comressedGif.gif)
+![alt Demo](demo/comressedGif.gif)
