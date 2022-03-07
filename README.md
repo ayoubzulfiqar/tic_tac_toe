@@ -10,7 +10,7 @@ and I also change the name the and Icon of this project.. All the UI design are 
 ### Projects ScreenShots
 
 **Icon**
-![alt MainScreen](demo\icon.jpg)
+![alt MainScreen](demo/icon.jpg)
 **Main Screen**
 ![alt MainScreen](demo\one.jpg)
 
